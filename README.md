@@ -18,8 +18,8 @@ It types text into any application with natural randomness, pauses, and speed va
 ## 🚀 Getting Started
 
 ### Prerequisites
-- macOS 13+  
-- Xcode 15+  
+- macOS 13+
+- Literally nothing else
 
 ### Build Instructions
 1. Download .dmg
