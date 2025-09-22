@@ -22,7 +22,7 @@ It types text into any application with natural randomness, pauses, and speed va
 - Xcode 15+  
 
 ### Build Instructions
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/humantyper.git
-   cd humantyper
+1. Download .dmg
+2. Move to applications
+3. Give access in accessibility settings "privacy and secutiry > accessibiity > add humantyper app"
+4. If it doesn't open,  enter "privacy and security > scrol down to unverified developer and click [open anyways]"
